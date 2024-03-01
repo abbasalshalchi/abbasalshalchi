@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abbasalshalchi
-- 👀 I’m interested in mechatronics
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on simple arduino projects
+- 👀 I’m interested in STEM and especially embedded systems
+- 🌱 I’m currently learning full stack development
+- 💞️ I’m looking to collaborate on simple arduino projects, web projects, python projects
